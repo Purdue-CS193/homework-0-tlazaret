@@ -1,8 +1,9 @@
 # Tea's First CS193 Homework
 
 My favorite things about CS193:
--the instructors
--the PSOs are optional
+
+- the instructors
+- the PSOs are optional
 
 ## Welcome to GitHub Pages
 
